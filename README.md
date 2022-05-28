@@ -1,2 +1,1 @@
-# Data-Analyst
-Covid Data Analysis
+# Covid Data Analysis
